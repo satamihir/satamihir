@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="159" height="44" viewBox="0 0 159 44" role="img" aria-label="open to work">
+  <rect x=".75" y=".75" width="157.5" height="42.5" rx="9" fill="#ffffff" stroke="#c9d3df" stroke-width="1.5"/>
+  <g transform="translate(27 22)">
+    <circle r="4" fill="#2d5c8e"/>
+    <circle r="4" fill="none" stroke="#2d5c8e" stroke-width="1.5">
+      <animate attributeName="r" values="4;10" dur="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".9;0" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="44" y="27" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#0f151e" textLength="97" lengthAdjust="spacingAndGlyphs">open to work</text>
+</svg>
